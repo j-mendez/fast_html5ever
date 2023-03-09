@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "html5ever",
+    "markup5ever"
+]
